@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the process of runtimepermission in android mobile devices”.
-Developed by : S Adithya Chowdary 
-Registeration Number : 212221230100
+Developed by : M Gautham
+Registeration Number : 212221230027
 ```
 ### Activity_Main.xml 
 ```
