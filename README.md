@@ -1,4 +1,4 @@
-# Ex.No:6 Create a simple application to request storage and camera permission at RunTime using android studio.
+# Ex.No:07 Create a simple application to request storage and camera permission at RunTime using android studio.
 
 
 ## AIM:
