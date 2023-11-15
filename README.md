@@ -1,4 +1,4 @@
-# Ex.No:07 Create a simple application to request storage and camera permission at RunTime using android studio.
+# Ex.No:06 Create a simple application to request storage and camera permission at RunTime using android studio.
 
 
 ## AIM:
@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to print the process of runtimepermission in android mobile devices”.
-DEVELOPED BY : M Hari Krishna
-REG.NO   : 212221230059.
+DEVELOPED BY : S Adithya Chowdary.
+REG.NO   : 212221230100.
 ```
 ### Activity_Main.xml 
 ```
